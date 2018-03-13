@@ -56,4 +56,4 @@ script:
   - make test
 
 after_success:
-    - codecov -t 14941eb5-212f-45d2-8f93-b00e31f7ea8f -X gcov
+    - codecov -t 48d8c41a-3be0-45cb-ae43-9c5e38111b70 -X gcov
